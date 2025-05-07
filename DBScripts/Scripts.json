@@ -1,10 +1,11 @@
 {
   "Brookhaven": {
-    "Teste": "loadstring(game:HttpGet(''))()",
-    "Teste2": "loadstring(game:HttpGet(''))()"
+    "Flame Object": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/Flame-Object/refs/heads/main/script.lua'))()",
+    "Shadow Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.lua'))()"
   },
   "PrisonLife": {
-    "TestePae": "loadstring(game:HttpGet(''))()"
+    "Six Hub": "loadstring(game:HttpGet(''))()"
+"Six Hub": "loadstring(game:HttpGet(''))()"
   },
   "Blox Fruits": {
     "Testeee99": "loadstring(game:HttpGet(''))()"
