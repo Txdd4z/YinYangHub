@@ -6,6 +6,7 @@
     "Shift Lock": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Scripts/refs/heads/https/SHIFT%20LOCK'))()",
     "Hydroxide": "local owner = \"24rr\"\nlocal branch = \"revision\"\n\nlocal function webImport(file)\n    return loadstring(game:HttpGetAsync((\"https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua\"):format(owner, branch, file)), file .. '.lua')()\nend\n\nwebImport(\"init\")\nwebImport(\"ui/main\")",
     "Dex Explorer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/dex.lua'))()",
-    "Audio Logger": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/audiologger.lua'))()"
+    "Audio Logger": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/audiologger.lua'))()",
+    "Stretch Screen": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/SIXHUB-UNIVERSAL/SixHub-Universal/SixHub-Universal'))()",
   }
 }
