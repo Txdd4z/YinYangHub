@@ -4,15 +4,18 @@
     "Shadow Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.lua'))()"
   },
   "PrisonLife": {
-    "Six Hub": "loadstring(game:HttpGet(''))()"
+    "Six Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Prison-Life/Prison-Life/Prison%20Life%20-%20Six%20Hub'))()",
     "Tiger Admin": "loadstring(game:HttpGet(''))()"
   },
   "Blox Fruits": {
-    "Redz Hub": "loadstring(game:HttpGet(''))()"
+    "Redz Hub": "local Settings = {\n  JoinTeam = \"Pirates\"; -- Pirates/Marines\n  Translator = true; -- true/false\n}\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)",
     "Hoho Hub": "loadstring(game:HttpGet(''))()"
   },
   "Murder Mystery 2": {
-    "": "loadstring(game:HttpGet(''))()",
-    "": "loadstring(game:HttpGet(''))()"
+    "Script 1": "loadstring(game:HttpGet(''))()",
+    "Script 2": "loadstring(game:HttpGet(''))()",
+  },
+    "Natural Disaster": {
+    "Six Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Natural-Desastre/Six-Hub/NaturalDisaster'))()",
   }
 }
