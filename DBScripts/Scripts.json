@@ -5,16 +5,14 @@
   },
   "PrisonLife": {
     "Six Hub": "loadstring(game:HttpGet(''))()"
-"Six Hub": "loadstring(game:HttpGet(''))()"
+    "Tiger Admin": "loadstring(game:HttpGet(''))()"
   },
   "Blox Fruits": {
-    "Testeee99": "loadstring(game:HttpGet(''))()"
+    "Redz Hub": "loadstring(game:HttpGet(''))()"
+    "Hoho Hub": "loadstring(game:HttpGet(''))()"
   },
-  "Fisch": {
-    "Teste Fisch": "loadstring(game:HttpGet(''))()"
-  },
-  "Squid Game": {
-    "Slaman": "loadstring(game:HttpGet(''))()",
-    "Okay": "loadstring(game:HttpGet(''))()"
+  "Murder Mystery 2": {
+    "": "loadstring(game:HttpGet(''))()",
+    "": "loadstring(game:HttpGet(''))()"
   }
 }
