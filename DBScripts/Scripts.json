@@ -1,15 +1,16 @@
 {
   "Brookhaven": {
     "Flame Object": "loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/Flame-Object/refs/heads/main/script.lua'))()",
-    "Shadow Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.lua'))()"
+    "Shadow Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/realgengar/Brookhaven/refs/heads/main/Source.lua'))()",
+    "Rael Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/09276HDUv/RaelHub/refs/heads/main/Protected_4115899840467357.lua.txt'))()"
   },
   "PrisonLife": {
     "Six Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Prison-Life/Prison-Life/Prison%20Life%20-%20Six%20Hub'))()",
-    "Tiger Admin": "loadstring(game:HttpGet(''))()"
+    "Tiger Admin": "loadstring(game:HttpGet('https://raw.githubusercontent.com/SilverShard497/Tiger-admin/refs/heads/main/Any'))()"
   },
   "Blox Fruits": {
     "Redz Hub": "local Settings = {\n  JoinTeam = \"Pirates\"; -- Pirates/Marines\n  Translator = true; -- true/false\n}\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)",
-    "Hoho Hub": "loadstring(game:HttpGet(''))()"
+    "Hoho Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()"
   },
   "Murder Mystery 2": {
     "Script 1": "loadstring(game:HttpGet(''))()",
