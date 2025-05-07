@@ -1,12 +1,11 @@
-    {
-        ["Universais Scripts"] = {
-            ["Infinite Yield"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua'))()",
-            ["Keyboard Mobile"] = "loadstring(game:HttpGet(''))()",
-            ["Fly V3"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/projects-.lua/https/Fly%20Gui'))()",
-            ["Shift Lock"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Scripts/refs/heads/https/SHIFT%20LOCK'))()",
-            ["Hydroxide"] = hydroxide,
-            ["Dex Explorer"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/dex.lua'))()",
-            ["Audio Logger"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/audiologger.lua'))()",
-        }
-    }
-)
+{
+  "Universais Scripts": {
+    "Infinite Yield": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua'))()",
+    "Keyboard Mobile": "loadstring(game:HttpGet(''))()",
+    "Fly V3": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/projects-.lua/https/Fly%20Gui'))()",
+    "Shift Lock": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Scripts/refs/heads/https/SHIFT%20LOCK'))()",
+    "Hydroxide": "local owner = \"24rr\"\nlocal branch = \"revision\"\n\nlocal function webImport(file)\n    return loadstring(game:HttpGetAsync((\"https://raw.githubusercontent.com/%s/Hydroxide/%s/%s.lua\"):format(owner, branch, file)), file .. '.lua')()\nend\n\nwebImport(\"init\")\nwebImport(\"ui/main\")",
+    "Dex Explorer": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/dex.lua'))()",
+    "Audio Logger": "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/audiologger.lua'))()"
+  }
+}
