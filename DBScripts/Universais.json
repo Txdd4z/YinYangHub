@@ -1,0 +1,12 @@
+    {
+        ["Universais Scripts"] = {
+            ["Infinite Yield"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/main/latest.lua'))()",
+            ["Keyboard Mobile"] = "loadstring(game:HttpGet(''))()",
+            ["Fly V3"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/projects-.lua/https/Fly%20Gui'))()",
+            ["Shift Lock"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Scripts/refs/heads/https/SHIFT%20LOCK'))()",
+            ["Hydroxide"] = hydroxide,
+            ["Dex Explorer"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/dex.lua'))()",
+            ["Audio Logger"] = "loadstring(game:HttpGet('https://raw.githubusercontent.com/DarkNetworks/Infinite-Yield/refs/heads/main/audiologger.lua'))()",
+        }
+    }
+)
