@@ -14,7 +14,7 @@
   },
   "Blue Lock": {
     "NS Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/OhhMyGehlee/fo/refs/heads/main/ot'))()",
-    "Script 2": "loadstring(game:HttpGet(''))()",
+    "TheBillDev Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/selciawashere/screepts/refs/heads/main/BLRTBDKEYSYS',true))()",
   },
     "Natural Disaster": {
     "Six Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/ySixxNz/Natural-Desastre/Six-Hub/NaturalDisaster'))()",
