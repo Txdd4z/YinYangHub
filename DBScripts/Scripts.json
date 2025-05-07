@@ -12,8 +12,8 @@
     "Redz Hub": "local Settings = {\n  JoinTeam = \"Pirates\"; -- Pirates/Marines\n  Translator = true; -- true/false\n}\n\nloadstring(game:HttpGet(\"https://raw.githubusercontent.com/newredz/BloxFruits/refs/heads/main/Source.luau\"))(Settings)",
     "Hoho Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()"
   },
-  "Murder Mystery 2": {
-    "Script 1": "loadstring(game:HttpGet(''))()",
+  "Blue Lock": {
+    "NS Hub": "loadstring(game:HttpGet('https://raw.githubusercontent.com/OhhMyGehlee/fo/refs/heads/main/ot'))()",
     "Script 2": "loadstring(game:HttpGet(''))()",
   },
     "Natural Disaster": {
